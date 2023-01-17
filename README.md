@@ -1,2 +1,0 @@
-# madao
-go stupid 
